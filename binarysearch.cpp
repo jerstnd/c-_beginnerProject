@@ -2,7 +2,7 @@
 using namespace std;
 
 bool search(int low, int high){
-    int randNum = rand() % 100;
+    int randNum = rand() % (low + high);
     bool found = false;
 
     //logic
