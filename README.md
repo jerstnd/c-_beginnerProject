@@ -1,2 +1,1 @@
-# c-_beginnerProject
-My C++ beginner project
+cpp run
